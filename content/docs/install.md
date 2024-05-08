@@ -63,6 +63,6 @@ This command starts all the services defined in your Docker configuration, which
 ### Step 5: Verifying the Installation
 Once everything is running, open your web browser and visit:
 
-http://localhost:8000
+[http://localhost:8000](http://localhost:8000)
 
 If everything was set up correctly, you should see the LearnQuest application running!
