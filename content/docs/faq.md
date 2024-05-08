@@ -1,6 +1,6 @@
 ---
 title: "Frequently Asked Questions (FAQs)"
-weight: 6
+weight: 7
 draft: false
 bookFlatSection: false
 bookToc: true

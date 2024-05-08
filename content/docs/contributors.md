@@ -2,7 +2,7 @@
 title: "Contributors"
 date: 2023-05-08T12:00:00Z
 draft: false
-weight: 7
+weight: 8
 ---
 
 # Contributors to LearnQuest
@@ -95,6 +95,23 @@ This document highlights the invaluable contributions made by each team member t
 #### GitHub Profile
 - [Wesam-Naseer](https://github.com/Wesam-Naseer)
 
-## Appreciation
-
-We extend our heartfelt gratitude to all contributors for their hard work and dedication. Each line of code and every commit has helped shape LearnQuest into the robust and dynamic platform it is today. Thank you for your commitment to excellence and for making quality education accessible to all through this project.
+## Contributing 
+Contribute to the project by following some rules:
+Make changes on a separate branch (e.g. `feature/<feature-name>`):
+```bash
+git branch <feature/feature-name>
+```
+```bash
+git checkout <feature/feature-name>
+```
+Commit and push changes to the remote branch
+```bash
+git add .
+```
+```bash
+git commit -m "A very descriptive commit message"
+```
+```bash
+git push origin feature/<feature-name>
+```
+Open a pull request on the main [repository's main branch](https://github.com/abuwho/LearnQuest).

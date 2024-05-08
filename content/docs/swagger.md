@@ -1,6 +1,6 @@
 ---
 title: "Swagger API Documentation"
-weight: 4
+weight: 3
 draft: false
 bookFlatSection: false
 bookToc: true

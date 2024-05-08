@@ -2,7 +2,7 @@
 title: "Troubleshooting Guide"
 date: 2023-05-08T12:00:00Z
 draft: false
-weight: 3
+weight: 6
 ---
 
 # Troubleshooting Guide for LearnQuest

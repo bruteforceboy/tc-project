@@ -6,6 +6,7 @@ weight: 1
 ---
 
 # Installation Guide for LearnQuest
+![LearnQuest Image](/learnquest.png)
 
 Welcome to the LearnQuest Installation Guide! This guide will walk you through the steps to get LearnQuest up and running on your computer. Don’t worry if you’re new to some of the terms or tools—we’ll explain everything you need to do.
 

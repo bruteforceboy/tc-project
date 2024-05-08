@@ -1,6 +1,6 @@
 ---
 title: "Features"
-weight: 5
+weight: 4
 draft: false
 bookFlatSection: false
 bookToc: true
@@ -28,11 +28,3 @@ Here are some of the highlights featured in the video:
 - **Customizable Learning Paths**: Users can create or modify their learning paths based on their preferences and educational needs.
 - **Advanced Analytics Dashboard**: Provides comprehensive analytics to both students and educators, allowing for effective tracking of progress and performance.
 - **Integrated Resource Library**: Offers access to a wide range of educational resources, including videos, articles, and interactive tools, all curated to enhance learning.
-
-### How to Utilize These Features
-
-For detailed instructions on how to use these features, please refer to our [User Guide](/tc-project/docs/user-guide/), which provides step-by-step instructions on navigating and maximizing the potential of LearnQuest.
-
-## Further Information
-
-For more information on upcoming features and updates, stay tuned to our announcements page or subscribe to our newsletter.
