@@ -1,5 +1,5 @@
 ---
-title: "Contributors"
+title: "Contribute"
 date: 2023-05-08T12:00:00Z
 draft: false
 weight: 8
@@ -7,7 +7,7 @@ weight: 8
 
 # Contributors to LearnQuest
 
-This document highlights the invaluable contributions made by each team member to the LearnQuest project. Below, you can find detailed insights into the commit history, code contributions, and more for each contributor, along with links to their GitHub profiles.
+This section highlights some of the invaluable contributions made by each team member to the LearnQuest project. Below, you can find detailed insights into the commit history, code contributions, and more for each contributor, along with links to their GitHub profiles.
 
 ## Contributor Overview
 
