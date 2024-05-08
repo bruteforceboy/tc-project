@@ -54,10 +54,10 @@ To become an instructor, you need to submit an instructor application through ou
 
 ### How does LearnQuest handle my data?
 
-LearnQuest takes data privacy and security very seriously. We adhere to best practices and guidelines to ensure that your data is secure and private. For more detailed information, please refer to our [Privacy Policy](/tc-project/docs/privacy-policy/).
+LearnQuest takes data privacy and security very seriously. We adhere to best practices and guidelines to ensure that your data is secure and private. 
 
 ### What should I do if I find a security issue?
 
-If you discover a security issue, please do not report it via GitHub issues. Instead, email us directly at [security@learnquest.com](mailto:security@learnquest.com) with the details. We appreciate your understanding and cooperation in handling security matters responsibly.
+If you discover a security issue, please do not report it via GitHub issues. Instead, feel free to email the author of this documentation [ogbonnachibuoyim12@gmail.com](mailto:ogbonnachibuoyim12@gmail.com) with the details. 
 
 This FAQ aims to address common questions and concerns. For more detailed discussions and community support, please visit our forums or contact us directly through our support channels.
