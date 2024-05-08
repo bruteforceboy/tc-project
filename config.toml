@@ -16,33 +16,6 @@ theme = "hugo-book"
     endLevel = 4
     ordered = false
 
-# Menu configuration for sidebar ordering
-[[menu.main]]
-  identifier = "install"
-  name = "Installation Guide"
-  url = "/tc-project/docs/install/"
-  weight = 1
-
-[[menu.main]]
-  identifier = "endpoints"
-  name = "Endpoints"
-  url = "/tc-project/docs/endpoints/"
-  weight = 2
-
-[[menu.main]]
-  identifier = "troubleshoot"
-  name = "Troubleshooting"
-  url = "/tc-project/docs/troubleshoot/"
-  weight = 3
-
-[[menu.main]]
-  identifier = "faq"
-  name = "FAQ"
-  url = "/tc-project/docs/faq/"
-  weight = 4
-
-[[menu.main]]
-  identifier = "contributors"
-  name = "Contributors"
-  url = "/tc-project/docs/contributors/"
-  weight = 5
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -2,6 +2,7 @@
 title: "Contributors"
 date: 2023-05-08T12:00:00Z
 draft: false
+weight: 7
 ---
 
 # Contributors to LearnQuest

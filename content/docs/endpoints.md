@@ -1,6 +1,6 @@
 ---
 title: "API Endpoints"
-weight: 1
+weight: 2
 draft: false
 bookFlatSection: false
 bookToc: true
@@ -11,6 +11,8 @@ bookSearchExclude: false
 ---
 
 # API Endpoints for LearnQuest
+![LearnQuest Endpoints Image](/endpoints.png)
+
 
 This document provides a detailed guide to the API endpoints available in the LearnQuest application. Each endpoint's purpose, method type, and basic usage are described below, categorized into functional sections.
 
