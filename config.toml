@@ -20,29 +20,29 @@ theme = "hugo-book"
 [[menu.main]]
   identifier = "install"
   name = "Installation Guide"
-  url = "/install/"
+  url = "/tc-project/docs/install/"
   weight = 1
 
 [[menu.main]]
   identifier = "endpoints"
   name = "Endpoints"
-  url = "/endpoints/"
+  url = "/tc-project/docs/endpoints/"
   weight = 2
 
 [[menu.main]]
   identifier = "troubleshoot"
   name = "Troubleshooting"
-  url = "/troubleshoot/"
+  url = "/tc-project/docs/troubleshoot/"
   weight = 3
 
 [[menu.main]]
   identifier = "faq"
   name = "FAQ"
-  url = "/faq/"
+  url = "/tc-project/docs/faq/"
   weight = 4
 
 [[menu.main]]
   identifier = "contributors"
   name = "Contributors"
-  url = "/contributors/"
+  url = "/tc-project/docs/contributors/"
   weight = 5
