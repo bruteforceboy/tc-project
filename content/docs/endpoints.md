@@ -1,6 +1,7 @@
 ---
 title: "Endpoints"
 weight: 1
+draft: false
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -8,3 +9,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
+
+# Endpoints
+
+Content for the endpoint guide.
