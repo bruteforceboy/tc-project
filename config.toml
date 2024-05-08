@@ -1,17 +1,48 @@
-baseURL = "https://bruteforceboy.github.io/"
+baseURL = "https://bruteforceboy.github.io/tc-project/"
 languageCode = "en-us"
 title = "LearnQuest"
 theme = "hugo-book"
 
 [params]
+  # General params
   github = "https://bruteforceboy.github.io/tc-project/"
-  # Params for the theme
   BookShowToC = true   # Enable Table of Contents
   BookToC = 3          # Depth of the Table of Contents: adjust if needed
+  BookTheme = "dark"   # Set the theme to dark mode
 
 [markup]
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 4
     ordered = false
-    
+
+# Menu configuration for sidebar ordering
+[[menu.main]]
+  identifier = "install"
+  name = "Installation Guide"
+  url = "/install/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "endpoints"
+  name = "Endpoints"
+  url = "/endpoints/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "troubleshoot"
+  name = "Troubleshooting"
+  url = "/troubleshoot/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "faq"
+  name = "FAQ"
+  url = "/faq/"
+  weight = 4
+
+[[menu.main]]
+  identifier = "contributors"
+  name = "Contributors"
+  url = "/contributors/"
+  weight = 5
