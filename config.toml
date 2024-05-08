@@ -4,7 +4,7 @@ title = "LearnQuest"
 theme = "hugo-book"
 
 [params]
-  github = "https://bruteforceboy.github.io/hugo-site/"
+  github = "https://bruteforceboy.github.io/tc-project/"
   # Params for the theme
   BookShowToC = true   # Enable Table of Contents
   BookToC = 3          # Depth of the Table of Contents: adjust if needed
@@ -14,4 +14,3 @@ theme = "hugo-book"
     startLevel = 2
     endLevel = 4
     ordered = false
-
