@@ -2,6 +2,7 @@ baseURL = "https://bruteforceboy.github.io/tc-project/"
 languageCode = "en-us"
 title = "LearnQuest"
 theme = "hugo-book"
+canonifyURLs = true
 
 [params]
   # General params
