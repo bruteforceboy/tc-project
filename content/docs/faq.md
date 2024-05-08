@@ -1,5 +1,5 @@
 ---
-title: "Faq"
+title: "Frequently Asked Questions (FAQs)"
 weight: 1
 draft: false
 # bookFlatSection: false
